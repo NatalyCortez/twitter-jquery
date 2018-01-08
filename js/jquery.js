@@ -36,6 +36,7 @@ $(document).ready(function(){
 		$tweetBtn.prop('disabled',false);
 	}
 	});
+
 	
 	/* VERSIÓN 0.0.6 (EXTRA)*/
 	$tweetBtn.on('click',function(event){
