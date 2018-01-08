@@ -169,7 +169,8 @@ textarea:focus {
   color: #000000;
 }
 
-
+span .warning{color:#600;} 
+span .exceeded{color:#e00;}
 /* Helpers */
 
 .clearfix::after {
