@@ -25,6 +25,6 @@ Contar la cantidad de caracteres de forma regresiva.
 -Si pasa los 130 caracteres, mostrar el contador con OTRO color.
 -Si pasa los 140 caracteres, mostrar el contador en negativo.
 
-![twitter]()
-![twitter2]()
+![twitter](https://raw.githubusercontent.com/NatalyCortez/twitter-jquery/master/assets/images/twitterjpg.JPG)
+![twitter2](https://raw.githubusercontent.com/NatalyCortez/twitter-jquery/master/assets/images/twitter2.JPG)
 
